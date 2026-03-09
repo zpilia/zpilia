@@ -59,6 +59,6 @@ Développeuse web avec pour objectif de devenir **Développeuse Full-Stack**.
 
 💡 Vous pouvez également découvrir mes projets et mon parcours sur mon portfolio.
 
-<a href="[LIEN_DE_TON_PORTFOLIO](https://zoe-pilia-portfolio.vercel.app/)" target="_blank">
+<a href="https://zoe-pilia-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Voir_mon_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
