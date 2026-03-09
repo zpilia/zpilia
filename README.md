@@ -43,18 +43,6 @@ Développeuse web avec pour objectif de devenir **Développeuse Full-Stack**.
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🔗 Réseaux sociaux
-
-<p align="left">
-<a href="https://www.linkedin.com/in/zoepilia-1780161b0/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/zpilia" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
 ## 🌐 Portfolio
 
 💡 Vous pouvez également découvrir mes projets et mon parcours sur mon portfolio.
@@ -62,3 +50,21 @@ Développeuse web avec pour objectif de devenir **Développeuse Full-Stack**.
 <a href="https://zoe-pilia-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Voir_mon_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
+
+## 📫 Contact & Réseaux
+
+<p align="left">
+
+<a href="mailto:zpilia2@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/zoepilia-1780161b0/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/zpilia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
